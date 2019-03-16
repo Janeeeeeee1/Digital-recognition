@@ -1,0 +1,2 @@
+# Digital-recognition
+MNIST dataset
